@@ -2,7 +2,9 @@
 
 Программа, отвечает за формирование модели данных следующего типа:
 
-![](resources/Task-Manager Diagram.png)
+<p>
+    <img src="resources/Task-Manager Diagram.png" width="400" height="250" />
+</p>
 
 - трекер задач, позволяющий эффективно организовать совместную работу над задачами.
 
