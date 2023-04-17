@@ -3,7 +3,7 @@
 Программа, отвечает за формирование модели данных следующего типа:
 
 <p>
-    <img src="resources/Task-Manager Diagram.png" width="400" height="250" />
+    <img src="resources/Task-Manager Diagram.png" width="650" height="400" />
 </p>
 
 - трекер задач, позволяющий эффективно организовать совместную работу над задачами.
